@@ -528,8 +528,8 @@ img {
     border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.modal-close-btn:hover,
-.modal-close-btn:focus {
+.modal-close-button:hover,
+.modal-close-button:focus {
     background-color: var(--ocean);
     border: none;
 }
@@ -539,8 +539,8 @@ img {
     transition: fill var(--transition-func-and-dur);
 }
 
-.modal-close-btn:hover .modal-close-icon,
-.modal-close-btn:focus .modal-close-icon {
+.modal-close-button:hover .modal-close-icon,
+.modal-close-button:focus .modal-close-icon {
     fill: var(--white);
 }
 
